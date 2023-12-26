@@ -26,13 +26,6 @@
 <p align="center">
   <b>Email:</b> oavazov014@email.com<br>
   <b>Phone:</b> +998 95 009 51 14 or +998 95 135 51 14<br>
-  <b>GitHub:</b> <a href="https://github.com/AvazovOgabek">AvazovOgabek</a>
-</p>
-
-<h2 align="center">🏆 Achievements</h2>
-<p align="center">
-  Winner of Coding Competition 2022<br>
-  Web Development Certificate - Udemy
 </p>
 
 <h2 align="center">🌟 Interests</h2>
