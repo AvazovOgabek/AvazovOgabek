@@ -41,6 +41,3 @@
   Reading about Space & Astronomy<br>
   Contributing to Open Source Projects
 </p>
-
-<h2 align="center">🎉 Fun Fact</h2>
-<p align="center">I can solve a Rubik's Cube in under a minute!</p>
