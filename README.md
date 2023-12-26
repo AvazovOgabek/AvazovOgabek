@@ -1,33 +1,129 @@
-<h1 align="center">👨‍💻 Og'abek Avazov - Web Developer</h1>
+<!DOCTYPE html>
+<html lang="en">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Age-16-blue" alt="Age: 16">
-  <img src="https://img.shields.io/badge/Languages-Python%2C%20Django%2C%20JavaScript%2C%20CSS%2C%20HTML-success" alt="Languages: Python, Django, JavaScript, CSS, HTML">
-  <img src="https://img.shields.io/badge/Tools-DRF%2C%20Docker%2C%20PostgreSQL-informational" alt="Tools: DRF, Docker, PostgreSQL">
-</p>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Og'abek Avazov - Web Developer</title>
+  <style>
+    body {
+      font-family: 'Arial', sans-serif;
+      background-color: #f7f7f7;
+      color: #333;
+      margin: 0;
+      padding: 0;
+    }
 
-<div align="center">
-  <h3>🚀 About Me</h3>
-  <p>Driven by an early fascination with programming, I'm Og'abek Avazov, a <b>16-year-old web developer</b>. Exploring coding from a young age has led me to proficiency in various languages like <b>Python, Django, JavaScript (including Dart), CSS, and HTML</b>. My curiosity continues to drive me towards mastering new technologies.</p>
-  <p>Beyond programming, I find solace in reading, especially diverse topics. This habit broadens my horizons and inspires creative problem-solving approaches in my coding endeavors.</p>
+    header {
+      background-color: #3498db;
+      color: #fff;
+      text-align: center;
+      padding: 20px 0;
+      margin-bottom: 20px;
+    }
 
-  <h3>🛠️ Skills</h3>
-  <p><b>Languages & Tools:</b></p>
-  <p>Python, Django, JavaScript (including Dart), CSS, HTML, DRF, Docker, PostgreSQL, English language | B1</p>
+    h1, h2, h3 {
+      color: #3498db;
+    }
 
-  <h3>📁 Experience</h3>
-  <p><b>Beastnomer</b></p>
-  <p>🤖 <i>August 2023 - Present</i><br>Developed a bot.</p>
-  <p><b>Burger</b></p>
-  <p>🍔 <i>October 2023 - Present</i><br>Created a website and Telegram web app.</p>
+    section {
+      max-width: 800px;
+      margin: 0 auto 20px;
+      background-color: #fff;
+      padding: 20px;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
 
-  <h3>🔍 Projects</h3>
-  <p>Explore my projects on <a href="https://github.com/AvazovOgabek">GitHub</a></p>
+    img {
+      max-width: 100%;
+      height: auto;
+    }
 
-  <h3>🎓 Education</h3>
-  <p><b>Python Backend</b></p>
-  <p>Najot Talim - Graduated in 2023</p>
+    p {
+      line-height: 1.6;
+    }
 
-  <h3>📧 Contact</h3>
-  <p><b>Email:</b> oavazov014@email.com<br><b>Phone:</b> +998 95 009 51 14 or +998 95 135 51 14<br><b>GitHub:</b> <a href="https://github.com/AvazovOgabek">AvazovOgabek</a></p>
-</div>
+    .center-align {
+      text-align: center;
+    }
+
+    .badge {
+      margin: 0 5px;
+    }
+
+    .badge img {
+      vertical-align: middle;
+    }
+
+    .interests p,
+    .fun-fact p {
+      margin: 5px 0;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <h1>👋 Hi, I'm Og'abek Avazov</h1>
+    <p>16-year-old Web Developer | Curious learner | Passionate about coding</p>
+    <p class="center-align">
+      <img class="badge" src="https://img.shields.io/badge/Age-16-blue" alt="Age: 16">
+      <img class="badge" src="https://img.shields.io/badge/Languages-Python%2C%20Django%2C%20JavaScript%2C%20CSS%2C%20HTML-success" alt="Languages: Python, Django, JavaScript, CSS, HTML">
+      <img class="badge" src="https://img.shields.io/badge/Tools-DRF%2C%20Docker%2C%20PostgreSQL-informational" alt="Tools: DRF, Docker, PostgreSQL">
+    </p>
+  </header>
+
+  <section>
+    <p class="center-align">Driven by a passion for coding since a young age, I love exploring new technologies and applying them creatively. I enjoy diving into diverse topics, both in programming and beyond, to broaden my horizons.</p>
+  </section>
+
+  <section>
+    <h2 class="center-align">🛠️ Skills</h2>
+    <p class="center-align">
+      <b>Languages & Tools:</b><br>
+      Python, Django, JavaScript (including Dart), CSS, HTML, DRF, Docker, PostgreSQL, English language | B1
+    </p>
+  </section>
+
+  <section>
+    <h2 class="center-align">🎓 Education</h2>
+    <p class="center-align">
+      <b>Python Backend</b><br>
+      Najot Talim - Graduated in 2023
+    </p>
+  </section>
+
+  <section>
+    <h2 class="center-align">📧 Contact</h2>
+    <p class="center-align">
+      <b>Email:</b> oavazov014@email.com<br>
+      <b>Phone:</b> +998 95 009 51 14 or +998 95 135 51 14<br>
+      <b>GitHub:</b> <a href="https://github.com/AvazovOgabek" style="color: #3498db;">AvazovOgabek</a>
+    </p>
+  </section>
+
+  <section>
+    <h2 class="center-align">🏆 Achievements</h2>
+    <p class="center-align">
+      Winner of Coding Competition 2022<br>
+      Web Development Certificate - Udemy
+    </p>
+  </section>
+
+  <section>
+    <h2 class="center-align">🌟 Interests</h2>
+    <p class="center-align">
+      Exploring AI & Machine Learning<br>
+      Reading about Space & Astronomy<br>
+      Contributing to Open Source Projects
+    </p>
+  </section>
+
+  <section>
+    <h2 class="center-align">🎉 Fun Fact</h2>
+    <p class="center-align">I can solve a Rubik's Cube in under a minute!</p>
+  </section>
+</body>
+
+</html>
